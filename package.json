@@ -1,5 +1,6 @@
 {
 	"author": "Aditya Mitra",
+	"description": "This is a simple Node js Project for freeCodeCamp",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
